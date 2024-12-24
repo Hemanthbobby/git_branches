@@ -1,1 +1,6 @@
-hey this is branchB
+hey this is branchB created in git hub and pulled form remote
+
+
+making changes in vscode 
+
+and adding here and commiting again form local
